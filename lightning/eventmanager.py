@@ -1,5 +1,5 @@
-from event import Event
-from eventData import EventData
+from .event import Event
+from .eventData import EventData
 from decorator import decorator
 from collections import Sequence
 

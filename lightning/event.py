@@ -1,5 +1,5 @@
-from eventmanager import LightningEventManager
-from eventData import EventData
+from .eventmanager import LightningEventManager
+from .eventData import EventData
 from dataclasses import dataclass
 
 class Event:
